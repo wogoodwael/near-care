@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:near_care/widgets/Custom_Text_Field_Name.dart';
-import 'package:near_care/widgets/custom_rx.dart';
-import 'package:near_care/widgets/custom_search.dart';
+import 'package:near_care/presentation/widgets/Custom_Text_Field_Name.dart';
+import 'package:near_care/presentation/widgets/custom_rx.dart';
+import 'package:near_care/presentation/widgets/custom_search.dart';
 
 class DetailsScreen extends StatefulWidget {
   const DetailsScreen({super.key});

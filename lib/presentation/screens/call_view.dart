@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:near_care/widgets/custom_buttonn.dart';
+import 'package:near_care/presentation/widgets/custom_buttonn.dart';
 
 class CallViewScreen extends StatefulWidget {
   const CallViewScreen({super.key});
